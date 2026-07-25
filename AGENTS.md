@@ -1,12 +1,12 @@
 # Repository Guidelines
 
-이 프로젝트는 Codex를 활용한 Vibe Coding 방식으로 개발한다. 이 문서는 프로젝트 진행 중 팀과 논의하여 보완한다. 공통 Kit 기준은 `C:\Users\zosel\.codex\AGENTS.md`를 우선 참조하며, 개발 단계별 가이드·프롬프트·템플릿은 각각 `C:\Users\zosel\.codex\skills\`, `C:\Users\zosel\.codex\prompts\`, `C:\Users\zosel\.codex\templates\`에서 확인한다.
+이 프로젝트는 Codex를 활용한 Vibe Coding 방식으로 개발한다. 이 문서는 프로젝트 진행 중 팀과 논의하여 보완한다. 
 
 ## 1. 프로젝트 개요
 
-- 프로젝트명:
-- 프로젝트 목적:
-- 주요 기술:
+- 프로젝트명:마케터 & 기획자를 위한 「뉴스 & 트렌드 리포트 생성기」
+- 프로젝트 목적:공개 데이터와 AI 분석을 활용해 산업 경쟁사의 변화와 시장 트렌드를 근거 기반 리포트로 제공하는 분석 에이전트.
+- 주요 기술:입력값에 맞추어 데이터를 수집하고 이를 요약하여 분석하는 에이전트
 - 요구사항 문서: `./docs/requirements.md`
 - 기능 분해 문서: `./docs/function-breakdown.md`
 - MVP 계획 문서: `./docs/MVP-plan.md`
